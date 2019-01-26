@@ -1,0 +1,125 @@
+{
+    "width": 3,
+    "height": 5,
+    "aim": 2,
+    "checkpoints": [
+        {
+            "x": 0,
+            "y": 2
+        }
+    ],
+    "tiles": [
+        {
+            "type": "Exit",
+            "position": {
+                "x": 0,
+                "y": 0
+            },
+            "border": 28
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 0,
+                "y": 1
+            },
+            "border": 20
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 0,
+                "y": 2
+            },
+            "border": 20
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "border": 16
+        },
+        {
+            "type": "Frog",
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "border": 18
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 3
+            },
+            "border": 8
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 4
+            },
+            "border": 2
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "border": 28
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "border": 20
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 2
+            },
+            "border": 20
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 3
+            },
+            "border": 4
+        },
+        {
+            "type": "Mouse",
+            "position": {
+                "x": 2,
+                "y": 4
+            },
+            "border": 6
+        }
+    ],
+    "snake": {
+        "positions": [
+            {
+                "x": 2,
+                "y": 2
+            },
+            {
+                "x": 2,
+                "y": 1
+            },
+            {
+                "x": 2,
+                "y": 0
+            }
+        ]
+    }
+}

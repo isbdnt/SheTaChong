@@ -1,0 +1,91 @@
+{
+    "width": 3,
+    "height": 5,
+    "aim": 2,
+    "tiles": [
+        {
+            "type": "Empty",
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "border": 24
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 0,
+                "y": 4
+            },
+            "border": 18
+        },
+        {
+            "type": "Mouse",
+            "position": {
+                "x": 1,
+                "y": 2
+            },
+            "border": 24
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 3
+            },
+            "border": 0
+        },
+        {
+            "type": "Mouse",
+            "position": {
+                "x": 1,
+                "y": 4
+            },
+            "border": 6
+        },
+        {
+            "type": "Exit",
+            "position": {
+                "x": 2,
+                "y": 0
+            },
+            "border": 28
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 1
+            },
+            "border": 20
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 2
+            },
+            "border": 4
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 3
+            },
+            "border": 6
+        }
+    ],
+    "snake": {
+        "positions": [
+            {
+                "x": 2,
+                "y": 2
+            },
+            {
+                "x": 2,
+                "y": 1
+            }
+        ]
+    }
+}

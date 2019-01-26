@@ -1,0 +1,89 @@
+{
+    "width": 4,
+    "height": 4,
+    "aim": 2,
+    "checkpoints": [
+        {
+            "x": 0,
+            "y": 2
+        }
+    ],
+    "tiles": [
+        {
+            "type": "Frog",
+            "position": {
+                "x": 0,
+                "y": 3
+            },
+            "border": 26
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 0
+            },
+            "border": 28
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 1
+            },
+            "border": 20
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 2
+            },
+            "border": 16
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 1,
+                "y": 3
+            },
+            "border": 2
+        },
+        {
+            "type": "Empty",
+            "position": {
+                "x": 2,
+                "y": 2
+            },
+            "border": 12
+        },
+        {
+            "type": "Frog",
+            "position": {
+                "x": 2,
+                "y": 3
+            },
+            "border": 2
+        },
+        {
+            "type": "Exit",
+            "position": {
+                "x": 3,
+                "y": 3
+            },
+            "border": 14
+        }
+    ],
+    "snake": {
+        "positions": [
+            {
+                "x": 1,
+                "y": 1
+            },
+            {
+                "x": 1,
+                "y": 0
+            }
+        ]
+    }
+}
